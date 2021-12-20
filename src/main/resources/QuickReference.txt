@@ -1,0 +1,8 @@
+
+Different ways to intialize array
+
+
+int[] intArray = new int[]{13, 14, 15};
+int[] stringArray = new String[]{"zelda", "link", "ganon"};
+int[] intArray = IntStream.of(6, 2, 4, 5, 7).sorted().toArray();
+int[] intArray = IntStream.range(1, 11).toArray();
