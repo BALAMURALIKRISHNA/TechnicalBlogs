@@ -1,4 +1,4 @@
-package recession2022;
+package youtube2022;
 
 public class RandomArrayLoader {
 }
